@@ -14,17 +14,17 @@
 
 ---
 ## Top 10 Activities (For Common App)
-
-1. Robotics Team — Mechanical Team Member
-2. Science Olympiad — Member
+1. Science Olympiad — Member
+2. Science Bowl — Member
 3. Kumon Inc. — Teaching Assistant
 4. School Tutoring
 5. Desert Royale — Solo Developer
 6. DeepThought — Solo Designer/Engineer
-7. NFC Business Card — Hardware Engineer(Friend handles Software)
-8. Friendship Signal Bracelets — Solo Designer/Engineer
+7. NFC Business Card — Solo Designer/Engineer
+8. Friendship Signal Bracelets — Hardware Engineer(Friend handles Software)
 9. RP2040 Dev Board — Solo Designer/Engineer
-10. Science Bowl — Member
+10. Robotics Team — Mechanical Team Member
+
 
 ---
 
