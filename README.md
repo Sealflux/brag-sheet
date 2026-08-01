@@ -193,15 +193,15 @@ Developed rigorous testing protocols for device optimization, iterating on desig
 
 | Skill | Beginner | Novice | Intermediate | Advanced | Notes |
 |-------|----------|--------|--------------|----------|-------|
-| Roblox Lua | X | | | X | Confident with core API |
+| Roblox Lua | | | | X | Confident with core API |
 | React + TypeScript | | | X | | Desert Royale |
 | PCB Design (KiCad) | | X | | | 4+ board designs |
 | Embedded Systems | | X | | | ESP32, RP2040 |
 | 3D Printing | | X | | | Case design |
 | 3D Modeling (Onshape) | | X | | | CAD for enclosures |
 | 3D Modeling (Fusion 360) | X | | | | Learning workflow |
-| Client-Server | X | | | X | Understands security |
-| Data Stores | X | | | X | ProfileService |
+| Client-Server | | | | X | Understands security |
+| Data Stores || | | X | ProfileService |
 | UI/UX Design | X | | | | Needs work on responsive |
 | Git / Version Control | | X | | | All projects on GitHub |
 | Project Management | | X | | | Time-blocking |
