@@ -12,6 +12,19 @@
 
 **Interests:** Software Engineering, Embedded Systems, Hardware Design, Game Design, Product Management
 
+---
+## Top 10 Activities (For Common App)
+
+1. Robotics Team — Mechanical Team Member
+2. Science Olympiad — Member
+3. Kumon Inc. — Teaching Assistant
+4. School Tutoring
+5. Desert Royale — Solo Developer
+6. DeepThought — Solo Designer/Engineer
+7. NFC Business Card — Solo Designer/Engineer
+8. Friendship Signal Bracelets — Solo Designer/Engineer
+9. RP2040 Dev Board — Solo Designer/Engineer
+10. Science Bowl — Member
 
 ---
 
@@ -23,11 +36,30 @@
 |------|--------|
 | Score 4+ on all AP Exams | Mixed — see below |
 | Ship one monetized Roblox game | In progress |
-| Lead one major initiative in a club | |
-| Read 12 non-fiction books | |
+| Lead one major initiative in a club |Idk|
+| Read 12 non-fiction books |Read over 100 nonfiction books...(I need to spend my time more wisely)|
 
 
 ---
+## Annual Goals — 2026-2027 (Senior Year)
+
+**Theme:** "Survive College App Hell, then relax"
+
+| Priority | Goal | Result | Category |
+|----------|------|--------|----------|
+| Primary | Finish all summer work | TBD | Academics |
+| Primary | Score 1500+ on the August SAT | TBD | Academics |
+| Primary | Finalize College List (Reach, Match, Safety) | TBD | College Prep |
+| Primary | Complete and Submit Early Applications (EA/ED) | TBD | College Prep |
+| Critical | Write and finalize 1 Personal Statement | TBD | College Prep |
+| Critical | Finish 5+ Supplemental Essays | TBD | College Prep |
+| Must Do | Ask Teachers for Recommendations (By Sept 1) | TBD | College Prep |
+| Must Do | Maintain GPA in 1st Semester | TBD | Academics |
+| Must Do | Request Official Transcripts | TBD | College Prep |
+| Reach | Ship Friendship Bracelet Hardware | TBD | Personal Project |
+| Nice to Have | Apply for 1 Scholarship | TBD | College Prep |
+| Non-negotiable | Do one fun thing every week | TBD | Mental Health |
+
 
 ## Academics & Test Scores
 
@@ -90,7 +122,7 @@ Pocket keychain device that displays DeepSeek quotes on an OLED at the push of a
 
 
 ### NFC Business Card
-**Timeframe:** 2025–Present | **Status:** Designed (pending funding)  
+**Timeframe:** 2025–Present | **Status:** Designed 
 **Repo:** [https://github.com/Sealflux/PCB_Business_Card](https://github.com/Sealflux/PCB_Business_Card)
 
 NFC business card that lights up when tapped — no battery, harvests power from phone's NFC field.
@@ -206,18 +238,6 @@ Developed rigorous testing protocols for device optimization, iterating on desig
 | Git / Version Control | | X | | | All projects on GitHub |
 | Project Management | | X | | | Time-blocking |
 | Public Speaking | | | X | | Comfortable leading meetings |
-
-
----
-
-## Future Goals
-
-- Ship the remaining hardware projects (DeepThought, NFC card, bracelets)
-- Build a portfolio website
-- Build a mobile app with React Native
-- Explore 3D modeling in Blender
-- Write college essays
-- Get 1500+ on SAT
 
 
 ---
