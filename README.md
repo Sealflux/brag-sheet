@@ -21,7 +21,7 @@
 4. School Tutoring
 5. Desert Royale — Solo Developer
 6. DeepThought — Solo Designer/Engineer
-7. NFC Business Card — Solo Designer/Engineer
+7. NFC Business Card — Hardware Engineer(Friend handles Software)
 8. Friendship Signal Bracelets — Solo Designer/Engineer
 9. RP2040 Dev Board — Solo Designer/Engineer
 10. Science Bowl — Member
