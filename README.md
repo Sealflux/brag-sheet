@@ -88,7 +88,7 @@
 ## Project Deep Dives
 
 ### Desert Royale
-**Timeframe:** 2025–Present | **Status:** Shipped (Live)  
+**Timeframe:** 2026–Present | **Status:** Shipped (Live)  
 **Repo:** [https://github.com/Sealflux/Desert-Royale](https://github.com/Sealflux/Desert-Royale)
 
 Turn-based survival board game set in the wild west. 2-6 players fight to be the last one standing in a grid-based arena. Digital adaptation of an original board game inspired by Guncho.
@@ -106,7 +106,7 @@ Turn-based survival board game set in the wild west. 2-6 players fight to be the
 
 
 ### DeepThought
-**Timeframe:** 2025–Present | **Status:** Prototype (pending funding)  
+**Timeframe:** 2026–Present | **Status:** Prototype (pending funding)  
 **Repo:** [https://github.com/Sealflux/DeepThought](https://github.com/Sealflux/DeepThought)
 
 Pocket keychain device that displays DeepSeek quotes on an OLED at the push of a button.
@@ -122,7 +122,7 @@ Pocket keychain device that displays DeepSeek quotes on an OLED at the push of a
 
 
 ### NFC Business Card
-**Timeframe:** 2025–Present | **Status:** Designed 
+**Timeframe:** 2026–2026 | **Status:** Designed 
 **Repo:** [https://github.com/Sealflux/PCB_Business_Card](https://github.com/Sealflux/PCB_Business_Card)
 
 NFC business card that lights up when tapped — no battery, harvests power from phone's NFC field.
@@ -137,7 +137,7 @@ NFC business card that lights up when tapped — no battery, harvests power from
 
 
 ### Friendship Signal Bracelets
-**Timeframe:** 2025–Present | **Status:** In Development  
+**Timeframe:** 2026–Present | **Status:** In Development  
 **Repo:** [https://github.com/Sealflux/Friendship-Signal-Bracelets](https://github.com/Sealflux/Friendship-Signal-Bracelets)
 
 Bracelets that light up and vibrate when besties are within ~3-5 meters using BLE RSSI proximity detection.
@@ -148,7 +148,7 @@ Bracelets that light up and vibrate when besties are within ~3-5 meters using BL
 
 
 ### RP2040 Dev Board
-**Timeframe:** 2025–Present | **Status:** Designed  
+**Timeframe:** 2026–2026 | **Status:** Designed  
 **Repo:** [https://github.com/Sealflux/RP2040Devboard](https://github.com/Sealflux/RP2040Devboard)
 
 Custom dev board built around the Raspberry Pi RP2040 MCU.
