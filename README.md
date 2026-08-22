@@ -159,6 +159,17 @@ Custom dev board built around the Raspberry Pi RP2040 MCU.
 
 **Role:** Solo Designer/Engineer
 
+### ESP32-C3 Dev Board
+**Timeframe:** 2026–2026 | **Status:** Designed  
+**Repo:** [https://github.com/Sealflux/ESP32-C3Devboard](https://github.com/Sealflux/ESP32-C3Devboard)
+
+Custom dev board built around the ESPRESSIF ESP32-C3 MCU
+
+**Key Achievements:**
+- Designed full PCB with RP2040, 16MB flash, USB-C, crystal oscillator, battery charging
+- Learned how to condense my design into a smaller area
+
+**Role:** Solo Designer/Engineer
 
 ---
 
@@ -176,7 +187,7 @@ Custom dev board built around the Raspberry Pi RP2040 MCU.
 - Events: Anatomy & Physiology, Chem Lab, Material Science, Experimental Design, Botany, Remote Sensing, Machines
 - Made it to Maryland State Tournament
 
-**Awards:**
+**Awards For Science Olympiad:**
 - 2/35 — Remote Sensing (Regional 2026)
 - 3rd Place — Machines (UMBC Invitational 2026)
 - 4/42 — Botany (State 2025)
@@ -191,6 +202,8 @@ Custom dev board built around the Raspberry Pi RP2040 MCU.
 - 19/42 — Material Science (Regional 2025)
 
 Developed rigorous testing protocols for device optimization, iterating on designs based on empirical results to maximize competition scores.
+
+## Community Service
 
 ### Kumon Inc. — Teaching Assistant (Oct 2024 – Feb 2026)
 - Managed personalized learning plans for 100+ K-12 students
