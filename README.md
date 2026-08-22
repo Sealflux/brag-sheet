@@ -17,7 +17,7 @@
 1. Science Olympiad — Member
 2. Science Bowl — Member
 3. Kumon Inc. — Teaching Assistant
-4. School Tutoring
+4. Peer Tutoring
 5. Desert Royale — Solo Developer
 6. DeepThought — Solo Designer/Engineer
 7. NFC Business Card — Solo Designer/Engineer
@@ -214,7 +214,7 @@ Developed rigorous testing protocols for device optimization, iterating on desig
 ### National Honor Society — Member (2025–Present)
 - Received Outstanding Mentoring Award (March 25, 2026) for peer tutoring
 
-### School Tutoring (2023–Present)
+### Peer Tutoring (2023–Present)
 - Tutored multiple students across several subjects since sophomore year
 
 
