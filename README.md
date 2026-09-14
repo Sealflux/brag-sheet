@@ -6,9 +6,9 @@
 
 ## Quick Summary
 
-**Core Skills:** Roblox Lua, React + TypeScript, PCB Design (KiCad), Embedded Systems (ESP32/RP2040), 3D Printing, Systems Architecture, UI/UX Design, Project Management, Fabrication, Data Stores
+**Core Skills:** Roblox Lua, React + TypeScript, PCB Design (KiCad), Embedded Systems (ESP32/RP2040), 3D Printing, Systems Architecture, UI/UX Design, Project Management, Game Design
 
-**Key Projects:** Desert Royale (web game), DeepThought (keychain device), NFC Business Card, Friendship Signal Bracelets, RP2040 Dev Board
+**Key Projects:** Desert Royale (web game), DeepThought (keychain device), NFC Business Card, Friendship Signal Bracelets, RP2040 Dev Board, ESP32 Dev Board
 
 **Interests:** Software Engineering, Embedded Systems, Hardware Design, Game Design, Product Management
 
@@ -47,18 +47,18 @@
 
 | Priority | Goal | Result | Category |
 |----------|------|--------|----------|
-| Primary | Finish all summer work | TBD | Academics |
-| Primary | Score 1500+ on the August SAT | TBD | Academics |
+| Primary | Finish all summer work | Completed | Academics |
+| Primary | Score 1500+ on the October SAT | TBD | Academics |
 | Primary | Finalize College List (Reach, Match, Safety) | TBD | College Prep |
 | Primary | Complete and Submit Early Applications (EA/ED) | TBD | College Prep |
 | Critical | Write and finalize 1 Personal Statement | TBD | College Prep |
 | Critical | Finish 5+ Supplemental Essays | TBD | College Prep |
-| Must Do | Ask Teachers for Recommendations (By Sept 1) | TBD | College Prep |
+| Must Do | Ask Teachers for Recommendations | TBD(Need To Email Mr Bates) | College Prep |
 | Must Do | Maintain GPA in 1st Semester | TBD | Academics |
 | Must Do | Request Official Transcripts | TBD | College Prep |
 | Reach | Ship Friendship Bracelet Hardware | TBD | Personal Project |
-| Nice to Have | Apply for 1 Scholarship | TBD | College Prep |
-| Non-negotiable | Do one fun thing every week | TBD | Mental Health |
+| Nice to Have | Apply for 1 Scholarship | Completed | College Prep |
+| Non-negotiable | Do one fun thing every week | Completed | Mental Health |
 
 
 ## Academics & Test Scores
@@ -66,7 +66,7 @@
 | Exam | Date | Score | Notes |
 |------|------|-------|-------|
 | AP United States History | May 2024 | 5 | |
-| AP Physics 1 | May 2024 | 3 | |
+| AP Physics 1 | May 2024 | 3 |Didn't take seriously(Lesson Learned)|
 | PSAT/NMSQT | Oct 2024 | 1420 (99th %) | One practice test |
 | AP Gov | May 2025 | 5 | |
 | AP English Seminar | May 2025 | 3 | |
@@ -75,13 +75,18 @@
 | AP Lang | May 2026 | 4 | |
 | AP Physics C: Mechanics | May 2026 | 3 | |
 | AP Calc BC | May 2026 | 3 | |
-| AP Bio | May 2026 | 3 | Self-studied, no school class |
-| AP Physics C: E&M | May 2026 | 2 | |
+| AP Bio | May 2026 | 3 | Self-studied, didn't take school class |
+| AP Physics C: E&M | May 2026 | 2 |Struggled Juggling 6 AP Exams With A Job.(Lesson Learned)|
 | SAT | March 2026 | 1390 | |
-| SAT | August 2026 | TBD | Currently studying for 1500+ |
-
-**Coursework Highlights:** *(list challenging/advanced classes)*
-
+| SAT | August 2026 | 1450 | Improved 60 Points!!! |
+| SAT | October 2026 | TBD | Currently studying for 1500+ |
+| SAT | November 2026 | TBD | Currently studying for 1500+ |
+| AP Microeconomics |  May 2027 | TBD | |
+| AP Chemistry |  May 2027 | TBD | |
+| AP Macroeconomics |  May 2027 | TBD | |
+| AP Statistics |  May 2027 | TBD | |
+| AP Computer Science A |  May 2027 | TBD | |
+| Multivariable Calculus |  TBD | TBD | |
 
 ---
 
@@ -255,4 +260,4 @@ Developed rigorous testing protocols for device optimization, iterating on desig
 
 ---
 
-**Last Updated:** August 2026
+**Last Updated:** September 2026
