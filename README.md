@@ -35,8 +35,8 @@
 | Goal | Result |
 |------|--------|
 | Score 4+ on all AP Exams | Mixed — see below |
-| Ship one monetized Roblox game | In progress |
-| Lead one major initiative in a club |Idk|
+| Ship one project | Completed |
+| Lead one major initiative in a club |N/A|
 | Read 12 non-fiction books |Read over 100 nonfiction books...(I need to spend my time more wisely)|
 
 
