@@ -9,7 +9,9 @@
 Loyal, Resourceful, and Curious
 
 Loyal: I could listen to any of my friends rambling on and on for hours. I value my friends.
+
 Resourceful: When I face an obstacle, a challenge, the first thing I do is not ask for help. The first thing I think of is what am I missing, what do I need to learn or know.
+
 Curious: I don't wait for a class to teach me something I want to know. I've taught myself PCB design, embedded firmware, 3D modeling, and 3D printing because I wanted to build things. Most of the time I don't know what I'm doing. Through my projects, I gradually learn how to do things and progress.
 
 ### What is your intended college major? What are your career goals?
